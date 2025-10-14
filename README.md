@@ -403,14 +403,12 @@
 <h2 class="section-title">📧 Байланыс</h2>
 
 <div class="info-box">
-  <p><b>Оқытушылар:</b></p>
+  <p><b>Байланыс үшін:</b></p>
   <ul>
-    <li>Дәріс оқытушысы: <a href="mailto:lecture@itechresearch.kz">lecture@itechresearch.kz</a></li>
-    <li>Практика жетекшісі (Топ 1): <a href="mailto:practice1@itechresearch.kz">practice1@itechresearch.kz</a></li>
-    <li>Практика жетекшісі (Топ 2): <a href="mailto:practice2@itechresearch.kz">practice2@itechresearch.kz</a></li>
+    <li>Байланыс: <a href="mailto:sup.itechresearch@gmail.com">sup.itechresearch@gmail.com +7(701)726 8544</a></li>
   </ul>
   
-  <p><b>Офис сағаттары:</b> Аптасына 2 рет</p>
+
   
   <p><b>Slack/Discord:</b> Курс чаты студенттер арасындағы қарым-қатынас үшін</p>
 </div>
