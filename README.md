@@ -6,14 +6,18 @@
 </head>
 <body>
 
-<h1>Машиналық оқыту курсы | <span>ITECHRESEARCH</span></h1>
+<h1>Машиналық оқыту курсы | <span style="color:#0078ff;">ITECHRESEARCH</span></h1>
 
 <div class="info-box">
   <h3>📚 Курс туралы</h3>
   <p>Бұл <b>ITECHRESEARCH</b> мектебінің <b>Машиналық оқыту (MO2026)</b> курсының толық 26 апталық бағдарламасы. Курс теориялық білім мен практикалық дағдыларды біріктіріп, студенттерді қазіргі заманғы ML технологияларымен таныстырады.</p>
-  <li>![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)</li>
-  <li>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</li>
-  <li>![Active](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)</li>
+
+  <ul>
+    <li><img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning Badge"></li>
+    <li><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"></li>
+    <li><img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Active Status Badge"></li>
+  </ul>
+</div>
 
   <h4>🎯 Курстың мақсаттары:</h4>
   <ul>
