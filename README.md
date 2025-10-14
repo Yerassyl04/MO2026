@@ -13,7 +13,8 @@
   <p>Бұл <b>ITECHRESEARCH</b> мектебінің <b>Машиналық оқыту (MO2026)</b> курсының толық 26 апталық бағдарламасы. Курс теориялық білім мен практикалық дағдыларды біріктіріп, студенттерді қазіргі заманғы ML технологияларымен таныстырады.</p>
   ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Active Development](https://img.shields.io/badge/Development-Active-brightgreen?style=for-the-badge)
+  ![Active](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
   <h4>🎯 Курстың мақсаттары:</h4>
   <ul>
     <li>Машиналық оқытудың негізгі концепцияларын меңгеру</li>
