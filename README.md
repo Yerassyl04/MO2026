@@ -3,73 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Машиналық оқыту курсы | ITECHRESEARCH</title>
-<style>
-body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 1.6;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 20px;
-  background: #f5f5f5;
-}
-h1 {
-  color: #2c3e50;
-  border-bottom: 3px solid #3498db;
-  padding-bottom: 10px;
-}
-h1 span {
-  color: #3498db;
-}
-.section-title {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
-  padding: 15px;
-  border-radius: 8px;
-  margin-top: 30px;
-}
-table {
-  width: 100%;
-  border-collapse: collapse;
-  background: white;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-  margin: 20px 0;
-}
-th {
-  background: #34495e;
-  color: white;
-  padding: 12px;
-  text-align: left;
-}
-td {
-  padding: 12px;
-  border-bottom: 1px solid #ddd;
-}
-tr:hover {
-  background: #f8f9fa;
-}
-a {
-  color: #3498db;
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
-}
-.project-card {
-  background: #fff3cd;
-  border-left: 4px solid #ffc107;
-  padding: 15px;
-  margin: 20px 0;
-  border-radius: 5px;
-}
-.info-box {
-  background: #d1ecf1;
-  border-left: 4px solid #17a2b8;
-  padding: 15px;
-  margin: 20px 0;
-  border-radius: 5px;
-}
-</style>
 </head>
 <body>
 
@@ -78,7 +11,9 @@ a:hover {
 <div class="info-box">
   <h3>📚 Курс туралы</h3>
   <p>Бұл <b>ITECHRESEARCH</b> мектебінің <b>Машиналық оқыту (MO2026)</b> курсының толық 26 апталық бағдарламасы. Курс теориялық білім мен практикалық дағдыларды біріктіріп, студенттерді қазіргі заманғы ML технологияларымен таныстырады.</p>
-  
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Active Development](https://img.shields.io/badge/Development-Active-brightgreen?style=for-the-badge)
   <h4>🎯 Курстың мақсаттары:</h4>
   <ul>
     <li>Машиналық оқытудың негізгі концепцияларын меңгеру</li>
