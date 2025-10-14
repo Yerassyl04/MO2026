@@ -334,7 +334,6 @@
     <li>Jupyter Notebook немесе Python скрипттері</li>
     <li>10 минуттық презентация</li>
     <li>GitHub репозиторийі (міндетті)</li>
-    <li>requirements.txt</li>
   </ul>
   
 </div>
@@ -406,10 +405,6 @@
   <ul>
     <li>Байланыс: <a href="mailto:sup.itechresearch@gmail.com">sup.itechresearch@gmail.com +7(701)726 8544</a></li>
   </ul>
-  
-
-  
-  <p><b>Slack/Discord:</b> Курс чаты студенттер арасындағы қарым-қатынас үшін</p>
 </div>
 
 <!-- ===================== ЕСКЕРТУЛЕР ===================== -->
