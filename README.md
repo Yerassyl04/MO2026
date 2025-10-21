@@ -60,25 +60,25 @@
       <td align="center"><b>2</b></td>
       <td><b>Python: деректер құрылымдары</b><br><sub>Тізімдер, сөздіктер, кортеждер, жиындар, list comprehension, файлдармен жұмыс, JSON форматы</sub></td>
       <td>📝 <a href="lectures/week02/lecture.md">Дәріс жазбасы</a><br>📊 <a href="lectures/week02/slides.pdf">Слайдтар</a></td>
-      <td>💻 <a href="practices/week02/group1.md">Топ 1:</a><br>💻 <a href="practices/week02/group2.md">Топ 2:</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1qPHmKrz5WUwY1X4GPxAkSBkLzkUK61A7?usp=sharing">Тапсырма:</a></td>
     </tr>
     <tr>
       <td align="center"><b>3</b></td>
       <td><b>Python: ОББ және NumPy</b><br><sub>Объектіге бағытталған бағдарламалау, try-except, модульдер, NumPy кіріспе (массивтер, векторизация)</sub></td>
       <td>📝 <a href="lectures/week03/lecture.md">Дәріс жазбасы</a><br>📊 <a href="lectures/week03/slides.pdf">Слайдтар</a></td>
-      <td>💻 <a href="practices/week03/group1.md">Топ 1:</a><br>💻 <a href="practices/week03/group2.md">Топ 2:</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1qPHmKrz5WUwY1X4GPxAkSBkLzkUK61A7?usp=sharing">Тапсырма:</a> </td>
     </tr>
     <tr>
       <td align="center"><b>4</b></td>
       <td><b>Математикалық негіздер</b><br><sub>Сызықтық алгебра (матрицалар, векторлар, нормалар), ықтималдық теориясы, статистикалық таралымдар, нормализация</sub></td>
       <td>📝 <a href="lectures/week04/lecture.md">Дәріс жазбасы</a><br>📊 <a href="lectures/week04/slides.pdf">Слайдтар</a></td>
-      <td>💻 <a href="practices/week04/group1.md">Топ 1:</a><br>💻 <a href="practices/week04/group2.md">Топ 2:</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1qPHmKrz5WUwY1X4GPxAkSBkLzkUK61A7?usp=sharing">Тапсырма:</a> </td>
     </tr>
     <tr>
       <td align="center"><b>5</b></td>
       <td><b>Pandas кітапханасы</b><br><sub>Series және DataFrame, индексация, сүзу, groupby, агрегаттау, кестелерді біріктіру (merge, join, concat)</sub></td>
       <td>📝 <a href="lectures/week05/lecture.md">Дәріс жазбасы</a><br>📊 <a href="lectures/week05/slides.pdf">Слайдтар</a></td>
-      <td>💻 <a href="practices/week05/group1.md">Топ 1:</a><br>💻 <a href="practices/week05/group2.md">Топ 2:</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1qPHmKrz5WUwY1X4GPxAkSBkLzkUK61A7?usp=sharing">Тапсырма:</a></td>
     </tr>
     <tr>
       <td align="center"><b>6</b></td>
