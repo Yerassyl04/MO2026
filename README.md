@@ -60,7 +60,7 @@
       <td align="center"><b>2</b></td>
       <td><b>Python: деректер құрылымдары</b><br><sub>Тізімдер, сөздіктер, кортеждер, жиындар, list comprehension, файлдармен жұмыс, JSON форматы</sub></td>
       <td>📝 <a href="lectures/week02/lecture.md">Дәріс жазбасы</a><br>📊 <a href="lectures/week02/slides.pdf">Слайдтар</a></td>
-      <td>💻 <a href="https://drive.google.com/drive/folders/1qPHmKrz5WUwY1X4GPxAkSBkLzkUK61A7?usp=sharing">Тапсырма:</a></td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1h3-cIUaOzZMSK7GhCKcjxUg_FSyoVmBv?usp=sharing">Тапсырма:</a></td>
     </tr>
     <tr>
       <td align="center"><b>3</b></td>
