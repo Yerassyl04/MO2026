@@ -53,37 +53,37 @@
     <tr>
       <td align="center"><b>1</b></td>
       <td><b>Машиналық оқытуға кіріспе</b><br><sub>ML түрлері, міндет түрлері (классификация, регрессия, болжау, ранжирлеу), CRISP-DM әдіснамасы, белгілер және шкалалар</sub></td>
-      <td>📝 <a href="lectures/week01/lecture.md">Дәріс жазбасы</a><br>📊 <a href="lectures/week01/slides.pdf">Слайдтар</a></td>
+      <td>📝 <a href="https://drive.google.com/drive/folders/145lhmbMDEqzV4Rb37QNAPJYjtKd5DCVk">Дәріс жазбасы</a></td>  
       <td>💻 <a href="https://drive.google.com/drive/folders/1qPHmKrz5WUwY1X4GPxAkSBkLzkUK61A7?usp=sharing">Тапсырма:</a></td>
     </tr>
     <tr>
       <td align="center"><b>2</b></td>
       <td><b>Python: деректер құрылымдары</b><br><sub>Тізімдер, сөздіктер, кортеждер, жиындар, list comprehension, файлдармен жұмыс, JSON форматы</sub></td>
-      <td>📝 <a href="lectures/week02/lecture.md">Дәріс жазбасы</a><br>📊 <a href="lectures/week02/slides.pdf">Слайдтар</a></td>
+      <td>📝 <a href="lectures/week02/lecture.md">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com/drive/folders/1h3-cIUaOzZMSK7GhCKcjxUg_FSyoVmBv?usp=sharing">Тапсырма</a></td>
     </tr>
     <tr>
       <td align="center"><b>3</b></td>
       <td><b>Python: ОББ және NumPy</b><br><sub>Объектіге бағытталған бағдарламалау, try-except, модульдер, NumPy кіріспе (массивтер, векторизация)</sub></td>
-      <td>📝 <a href="lectures/week03/lecture.md">Дәріс жазбасы</a><br>📊 <a href="lectures/week03/slides.pdf">Слайдтар</a></td>
+      <td>📝 <a href="lectures/week03/lecture.md">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com/drive/folders/1qPHmKrz5WUwY1X4GPxAkSBkLzkUK61A7?usp=sharing">Тапсырма</a> </td>
     </tr>
     <tr>
       <td align="center"><b>4</b></td>
       <td><b>Математикалық негіздер</b><br><sub>Сызықтық алгебра (матрицалар, векторлар, нормалар), ықтималдық теориясы, статистикалық таралымдар, нормализация</sub></td>
-      <td>📝 <a href="lectures/week04/lecture.md">Дәріс жазбасы</a><br>📊 <a href="lectures/week04/slides.pdf">Слайдтар</a></td>
+      <td>📝 <a href="lectures/week04/lecture.md">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com/drive/folders/1qPHmKrz5WUwY1X4GPxAkSBkLzkUK61A7?usp=sharing">Тапсырма</a> </td>
     </tr>
     <tr>
       <td align="center"><b>5</b></td>
       <td><b>Pandas кітапханасы</b><br><sub>Series және DataFrame, индексация, сүзу, groupby, агрегаттау, кестелерді біріктіру (merge, join, concat)</sub></td>
-      <td>📝 <a href="lectures/week05/lecture.md">Дәріс жазбасы</a><br>📊 <a href="lectures/week05/slides.pdf">Слайдтар</a></td>
+      <td>📝 <a href="lectures/week05/lecture.md">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com/drive/folders/1qPHmKrz5WUwY1X4GPxAkSBkLzkUK61A7?usp=sharing">Тапсырма</a></td>
     </tr>
     <tr>
       <td align="center"><b>6</b></td>
       <td><b>Деректерді зерттеу (EDA)</b><br><sub>Matplotlib, Seaborn визуализациясы, деректерді тазарту, бос мәндер, ауытқулар, санаттық кодтау, Feature Engineering</sub></td>
-      <td>📝 <a href="lectures/week06/lecture.md">Дәріс жазбасы</a><br>📊 <a href="lectures/week06/slides.pdf">Слайдтар</a></td>
+      <td>📝 <a href="lectures/week06/lecture.md">Дәріс жазбасы</a></td>
       <td>💻 <a href="practices/week06/group1.md">Тапсырма</a> </td>
     </tr>
   </tbody>
