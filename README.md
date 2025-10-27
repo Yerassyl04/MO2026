@@ -66,7 +66,7 @@
       <td align="center"><b>3</b></td>
       <td><b>Python: ОББ және NumPy</b><br><sub>Объектіге бағытталған бағдарламалау, try-except, модульдер, NumPy кіріспе (массивтер, векторизация)</sub></td>
       <td>📝 <a href="lectures/week03/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="https://drive.google.com/drive/folders/1qPHmKrz5WUwY1X4GPxAkSBkLzkUK61A7?usp=sharing">Тапсырма</a> </td>
+      <td>💻 <a href="https://drive.google.com/drive/folders/1h3-cIUaOzZMSK7GhCKcjxUg_FSyoVmBv?usp=sharin">Тапсырма</a></td>
     </tr>
     <tr>
       <td align="center"><b>4</b></td>
