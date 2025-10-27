@@ -159,19 +159,19 @@
       <td align="center"><b>13</b></td>
       <td><b>Ансамбль әдістері</b><br><sub>Бэггинг, кездейсоқ орман (Random Forest), градиентті бустинг (XGBoost, LightGBM, CatBoost), стекинг</sub></td>
       <td>📝 <a href="lectures/week13/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="practices/week13/group1.md">Топ 1:</a><br>💻 <a href="practices/week13/group2.md">Топ 2:</a></td>
+      <td>💻 <a href="https://drive.google.com">Тапсырма</a> </td>
     </tr>
     <tr>
       <td align="center"><b>14</b></td>
       <td><b>Модель сапасы және оптимизация</b><br><sub>Метрикалар, кросс-валидация, гиперпараметрлерді іріктеу (Grid Search, Random Search, Optuna)</sub></td>
       <td>📝 <a href="lectures/week14/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="practices/week14/group1.md">Топ 1:</a><br>💻 <a href="practices/week14/group2.md">Топ 2:</a></td>
+      <td>💻 <a href="https://drive.google.com">Тапсырма</a> </td>
     </tr>
     <tr>
       <td align="center"><b>15</b></td>
       <td><b>Теңгерімсіз деректер</b><br><sub>Класс теңгерімсіздігі, SMOTE, class_weight, undersampling/oversampling, evaluation метрикалары</sub></td>
       <td>📝 <a href="lectures/week15/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="practices/week15/group1.md">Топ 1:</a><br>💻 <a href="practices/week15/group2.md">Топ 2:</a></td>
+      <td>💻 <a href="https://drive.google.com">Тапсырма</a> </td>
     </tr>
   </tbody>
 </table>
@@ -200,25 +200,25 @@
       <td align="center"><b>17</b></td>
       <td><b>Нейрондық желілер негіздері</b><br><sub>Персептрон, көпқабатты желілер (MLP), активация функциялары, тура және кері таралу (forward/backward propagation)</sub></td>
       <td>📝 <a href="lectures/week17/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="practices/week17/group1.md">Топ 1:</a><br>💻 <a href="practices/week17/group2.md">Топ 2:</a></td>
+      <td>💻 <a href="https://drive.google.com">Тапсырма</a> </td>
     </tr>
     <tr>
       <td align="center"><b>18</b></td>
       <td><b>PyTorch негіздері</b><br><sub>Тензорлар мен операциялар, автоматты дифференциация, градиенттерді есептеу, бірінші нейрондық желіні құру және үйрету</sub></td>
       <td>📝 <a href="lectures/week18/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="practices/week18/group1.md">Топ 1:</a><br>💻 <a href="practices/week18/group2.md">Топ 2:</a></td>
+      <td>💻 <a href="https://drive.google.com">Тапсырма</a> </td>
     </tr>
     <tr>
       <td align="center"><b>19</b></td>
       <td><b>Сверткалық нейрондық желілер (CNN)</b><br><sub>Архитектура, conv қабаттар, pooling, dropout, batch normalization, трансферлік оқыту, кескінді классификациялау</sub></td>
       <td>📝 <a href="lectures/week19/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="practices/week19/group1.md">Топ 1:</a><br>💻 <a href="practices/week19/group2.md">Топ 2:</a></td>
+      <td>💻 <a href="https://drive.google.com">Тапсырма</a> </td>
     </tr>
     <tr>
       <td align="center"><b>20</b></td>
       <td><b>Қайталанатын нейрондық желілер (RNN)</b><br><sub>Тізбектермен жұмыс, LSTM және GRU, екі бағытты RNN, градиенттің жоғалуы мәселесі, мәтінмен жұмыс</sub></td>
       <td>📝 <a href="lectures/week20/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="practices/week20/group1.md">Топ 1:</a><br>💻 <a href="practices/week20/group2.md">Топ 2:</a></td>
+      <td>💻 <a href="https://drive.google.com">Тапсырма</a> </td>
     </tr>
   </tbody>
 </table>
@@ -240,19 +240,19 @@
       <td align="center"><b>21</b></td>
       <td><b>Табиғи тілді өңдеу (NLP) - 1</b><br><sub>Токенизация, Bag of Words, TF-IDF, сөздердің векторлық көріністері (Word2Vec, GloVe), мәтінді классификациялау</sub></td>
       <td>📝 <a href="lectures/week21/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="practices/week21/group1.md">Топ 1:</a><br>💻 <a href="practices/week21/group2.md">Топ 2:</a></td>
+      <td>💻 <a href="https://drive.google.com">Тапсырма</a> </td>
     </tr>
     <tr>
       <td align="center"><b>22</b></td>
       <td><b>Табиғи тілді өңдеу (NLP) - 2</b><br><sub>BERT эмбеддингтері, HuggingFace, fine-tuning, NER (атаулы нысандар), мәтінді қысқарту, машиналық аударма</sub></td>
       <td>📝 <a href="lectures/week22/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="practices/week22/group1.md">Топ 1:</a><br>💻 <a href="practices/week22/group2.md">Топ 2:</a></td>
+      <td>💻 <a href="https://drive.google.com">Тапсырма</a> </td>
     </tr>
     <tr>
       <td align="center"><b>23</b></td>
       <td><b>Компьютерлік көру</b><br><sub>Кескіндерді классификациялау, сегментация, объектілерді анықтау және бақылау, кескін генерациясы, практикалық қолданылу</sub></td>
       <td>📝 <a href="lectures/week23/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="practices/week23/group1.md">Топ 1:</a><br>💻 <a href="practices/week23/group2.md">Топ 2:</a></td>
+      <td>💻 <a href="https://drive.google.com">Тапсырма</a> </td>
     </tr>
   </tbody>
 </table>
@@ -281,7 +281,7 @@
       <td align="center"><b>24</b></td>
       <td><b>Күрделі архитектуралар және Ұсыныс жүйелері</b><br><sub>Автокодерлер (VAE), GAN, трансформерлер, коллаборативті фильтрация, матрицалық жіктеу (SVD, NMF), гибридті тәсілдер</sub></td>
       <td>📝 <a href="lectures/week24/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="practices/week24/group1.md">Топ 1:</a><br>💻 <a href="practices/week24/group2.md">Топ 2:</a></td>
+      <td>💻 <a href="https://drive.google.com">Тапсырма</a> </td>
     </tr>
   </tbody>
 </table>
@@ -303,7 +303,7 @@
       <td align="center"><b>25</b></td>
       <td><b>ML-жобаны ұйымдастыру және дайындық</b><br><sub>Жоба құрылымы, рөлдер, құралдар, зерттеу әдістемесі, модель интерпретациясы, этикалық мәселелер, бизнес-міндеттерді анықтау, метрикалар, EDA, baseline модельдер, эксперимент құжаттамасы</sub></td>
       <td>📝 <a href="lectures/week25/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="practices/week25/group1.md">Топ 1:</a><br>💻 <a href="practices/week25/group2.md">Топ 2:</a></td>
+      <td>💻 <a href="https://drive.google.com">Тапсырма</a> </td>
     </tr>
     <tr>
       <td align="center"><b>26</b></td>
