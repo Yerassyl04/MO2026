@@ -72,19 +72,19 @@
       <td align="center"><b>4</b></td>
       <td><b>Математикалық негіздер</b><br><sub>Сызықтық алгебра (матрицалар, векторлар, нормалар), ықтималдық теориясы, статистикалық таралымдар, нормализация</sub></td>
       <td>📝 <a href="lectures/week04/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="https://drive.google.com/drive/folders/1qPHmKrz5WUwY1X4GPxAkSBkLzkUK61A7?usp=sharing">Тапсырма</a> </td>
+      <td>💻 <a href="https://drive.google.com">Тапсырма</a> </td>
     </tr>
     <tr>
       <td align="center"><b>5</b></td>
       <td><b>Pandas кітапханасы</b><br><sub>Series және DataFrame, индексация, сүзу, groupby, агрегаттау, кестелерді біріктіру (merge, join, concat)</sub></td>
       <td>📝 <a href="lectures/week05/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="https://drive.google.com/drive/folders/1qPHmKrz5WUwY1X4GPxAkSBkLzkUK61A7?usp=sharing">Тапсырма</a></td>
+      <td>💻 <a href="https://drive.google.com">Тапсырма</a> </td>
     </tr>
     <tr>
       <td align="center"><b>6</b></td>
       <td><b>Деректерді зерттеу (EDA)</b><br><sub>Matplotlib, Seaborn визуализациясы, деректерді тазарту, бос мәндер, ауытқулар, санаттық кодтау, Feature Engineering</sub></td>
       <td>📝 <a href="lectures/week06/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="practices/week06/group1.md">Тапсырма</a> </td>
+      <td>💻 <a href="https://drive.google.com">Тапсырма</a> </td>
     </tr>
   </tbody>
 </table>
@@ -106,31 +106,31 @@
       <td align="center"><b>7</b></td>
       <td><b>Сызықтық регрессия</b><br><sub>Жай регрессия, Ridge регрессия, полиномдық белгілер, регуляризация, артық үйрену, Kaggle платформасы</sub></td>
       <td>📝 <a href="lectures/week07/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="practices/week07/group1.md">Топ 1:</a><br>💻 <a href="practices/week07/group2.md">Топ 2:</a></td>
+      <td>💻 <a href="https://drive.google.com">Тапсырма</a> </td>
     </tr>
     <tr>
       <td align="center"><b>8</b></td>
       <td><b>Логистикалық регрессия</b><br><sub>Екілік және көпкласты классификация, метрикалар (accuracy, precision, recall, F1), ROC-AUC</sub></td>
       <td>📝 <a href="lectures/week08/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="practices/week08/group1.md">Топ 1:</a><br>💻 <a href="practices/week08/group2.md">Топ 2:</a></td>
+      <td>💻 <a href="https://drive.google.com">Тапсырма</a> </td>
     </tr>
     <tr>
       <td align="center"><b>9</b></td>
       <td><b>KNN, SVM, Naive Bayes</b><br><sub>k-жақын көршілер, тірек вектор машиналары, наивті Байес классификаторы, шешім ағаштары</sub></td>
       <td>📝 <a href="lectures/week09/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="practices/week09/group1.md">Топ 1:</a><br>💻 <a href="practices/week09/group2.md">Топ 2:</a></td>
+      <td>💻 <a href="https://drive.google.com">Тапсырма</a> </td>
     </tr>
     <tr>
       <td align="center"><b>10</b></td>
       <td><b>Оптимизация негіздері</b><br><sub>Градиенттік түсу, туындылар, шығын функциялары (MSE, cross-entropy, Hinge), L1/L2 регуляризация, Ньютон әдісі</sub></td>
       <td>📝 <a href="lectures/week10/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="practices/week10/group1.md">Топ 1:</a><br>💻 <a href="practices/week10/group2.md">Топ 2:</a></td>
+      <td>💻 <a href="https://drive.google.com">Тапсырма</a> </td>
     </tr>
     <tr>
       <td align="center"><b>11</b></td>
       <td><b>Кластерлеу алгоритмдері</b><br><sub>K-means, иерархиялық кластерлеу, DBSCAN, метрикалар (silhouette score, Davies-Bouldin)</sub></td>
       <td>📝 <a href="lectures/week11/lecture.md">Дәріс жазбасы</a></td>
-      <td>💻 <a href="practices/week11/group1.md">Топ 1:</a><br>💻 <a href="practices/week11/group2.md">Топ 2:</a></td>
+      <td>💻 <a href="https://drive.google.com">Тапсырма</a> </td>
     </tr>
   </tbody>
 </table>
