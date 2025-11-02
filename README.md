@@ -404,45 +404,44 @@
 <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width:100%; text-align:left;">
   <thead style="background-color:#f3f3f3;">
     <tr>
-      <th style="width:35%;">Студент аты-жөні</th>
-      <th style="width:35%;">Тапсырмаға сілтеме</th>
+      <th style="width:70%;">Студент аты-жөні</th>
       <th style="width:30%;">Репозиторий сілтемесі</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td>1. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>2. Б </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>3. С </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>4. Д </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>5. Е </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>6. Ж </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>7. З </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>8. И </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>9. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>10. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>11. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>12. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>13. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>14. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>15. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>16. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>17. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>18. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>19. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>20. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>21. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>22. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>23. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>24. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>25. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>26. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>27. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>28. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>29. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>30. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>31. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>32. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>33. А </td><td><a href="#">Сілтеме</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>1. Ақылбай Жанболат</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>2. Аманбаев Абзал</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>3. Ануарбек Еламан</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>4. Ахан Азамат</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>5. Ахметқанов Өміржан</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>6. Әбдраим Алтынай</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>7. Балтабай Карина</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>8. Бейсенхан Самал</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>9. Беккужиев Асет</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>10. Ережеп Бекарыс</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>11. Жұмабай Анас</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>12. Идирисов Ержан</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>13. Изгалиева Алтынай</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>14. Көлбай Тоғжан</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>15. Қабдул Жаннұр</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>16. Лауланов Айбек</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>17. Мансұрхан Ақнұр</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>18. Мирмағалиева Алида</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>19. Нұртаев Әділет</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>20. Өтеген Біржан</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>21. Ратқызы Ақтолқын</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>22. Сагадиева Лаура</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>23. Садабаев Дарын</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>24. Танауов Мурат</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>25. Таурбек Әлжан</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>26. Тәніберген Ақшал</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>27. Утепберген Ардана</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>28. Халиева Жанна</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>29. Якупова Улболсын</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>30. Aripova Akmaral</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>31. Askarkyzy Nurgul</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>32. Beishev Alikhan</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>33. Аринова Айгуль</td><td><a href="#">Репо</a></td></tr>
   </tbody>
 </table>
 
