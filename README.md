@@ -409,7 +409,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td>1. Ақылбай Жанболат</td><td><a href="#">Репо</a></td></tr>
+    <tr><td>1. Ақылбай Жанболат</td><td><a href="https://github.com/Yerassyl04/IBM-SpaceX-ML">Репо</a></td></tr>
     <tr><td>2. Аманбаев Абзал</td><td><a href="#">Репо</a></td></tr>
     <tr><td>3. Ануарбек Еламан</td><td><a href="#">Репо</a></td></tr>
     <tr><td>4. Ахан Азамат</td><td><a href="#">Репо</a></td></tr>
