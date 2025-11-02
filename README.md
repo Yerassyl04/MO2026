@@ -410,39 +410,39 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td>1. Ақылбай Жанболат</td><td><a href="https://github.com/Yerassyl04">Профиль</a></td><td><a href="https://github.com/Yerassyl04/IBM-SpaceX-ML">Репо</a></td></tr>
-    <tr><td>2. Аманбаев Абзал</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>3. Ануарбек Еламан</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>4. Ахан Азамат</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>5. Ахметқанов Өміржан</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>6. Әбдраим Алтынай</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>7. Балтабай Карина</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>8. Бейсенхан Самал</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>9. Беккужиев Асет</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>10. Ережеп Бекарыс</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>11. Жұмабай Анас</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>12. Идирисов Ержан</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>13. Изгалиева Алтынай</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>14. Көлбай Тоғжан</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>15. Қабдул Жаннұр</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>16. Лауланов Айбек</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>17. Мансұрхан Ақнұр</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>18. Мирмағалиева Алида</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>19. Нұртаев Әділет</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>20. Өтеген Біржан</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>21. Ратқызы Ақтолқын</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>22. Сагадиева Лаура</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>23. Садабаев Дарын</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>24. Танауов Мурат</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>25. Таурбек Әлжан</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>26. Тәніберген Ақшал</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>27. Утепберген Ардана</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>28. Халиева Жанна</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>29. Якупова Улболсын</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>30. Aripova Akmaral</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>31. Askarkyzy Nurgul</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>32. Beishev Alikhan</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>33. Аринова Айгуль</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-01</td><td><a href="https://github.com/Yerassyl04/IBM-SpaceX-ML">Профиль</a></td><td><a href="https://github.com/Yerassyl04/IBM-SpaceX-ML">Репо</a></td></tr>
+    <tr><td>MO25-02</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-03</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-04</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-05</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-06</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-07</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-08</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-09</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-10</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-11</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-12</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-13</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-14</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-15</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-16</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-17</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-18</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-19</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-20</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-21</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-22</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-23</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-24</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-25</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-26</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-27</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-28</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-29</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-30</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-31</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-32</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
+    <tr><td>MO25-33</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
   </tbody>
 </table>
 
