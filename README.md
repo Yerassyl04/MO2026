@@ -404,7 +404,7 @@
 <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width:100%; text-align:left;">
   <thead style="background-color:#f3f3f3;">
     <tr>
-      <th style="width:40%;">Студент аты-жөні</th>
+      <th style="width:40%;">Студент коды</th>
       <th style="width:30%;">GitHub аккаунт</th>
       <th style="width:30%;">Репозиторий сілтемесі</th>
     </tr>
