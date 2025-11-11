@@ -85,9 +85,9 @@
     <tr>
       <td align="center"><b>4</b></td>
       <td><b>Python: ОББ және NumPy</b><br><sub>Ерекше жағдайларды өңдеу (try-except), модульдер мен пакеттер, NumPy кіріспе (массивтер, векторизация, негізгі операциялар)</sub></td>
-      <td>📝 <a href="lectures/week04/lecture.md">Дәріс жазбасы</a></td>
+      <td>📝 <a href="https://drive.google.com/drive/folders/1oQnBzPeGjsA6-dzqK66gs3MMOnXEkFzD?usp=sharing">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com">Практика</a></td>
-      <td>📘 <a href="#">СӨЖ</a></td>
+      <td>📘 <a href="https://docs.google.com/document/d/19kMQCj5kwiVADvOCjw8_DmAJBKh9LZN_g6G-CBoFnJw/edit?usp=sharing">СӨЖ</a></td>
       <td>🧩 <a href="#">СӨЖ</a></td>
     </tr>
     <tr>
