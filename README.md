@@ -88,7 +88,7 @@
       <td>📝 <a href="https://drive.google.com/drive/folders/1oQnBzPeGjsA6-dzqK66gs3MMOnXEkFzD?usp=sharing">Дәріс жазбасы</a></td>
       <td>💻 <a href="https://drive.google.com/drive/u/0/folders/1tpwJU1PLx6LmPD920F2wGUsKK1xpnL-r">Практика</a></td>
       <td>📘 <a href="https://docs.google.com/document/d/19kMQCj5kwiVADvOCjw8_DmAJBKh9LZN_g6G-CBoFnJw/edit?usp=sharing">СӨЖ</a></td>
-      <td>🧩 <a href="#">СӨЖ</a></td>
+      <td>🧩 <a href="https://colab.research.google.com/drive/1FP4OryAHMRsQQzUIjKAgeP4q1bXN3rYy?usp=sharing">СӨЖ</a></td>
     </tr>
     <tr>
       <td align="center"><b>5</b></td>
